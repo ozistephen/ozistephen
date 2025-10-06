@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ozioma Stephen]
+# 👋 Hi, I'm Ozioma Stephen
 
 🚀 **Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability**
 
