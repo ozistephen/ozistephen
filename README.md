@@ -23,7 +23,7 @@ My passion lies in **GitOps, automation, and reliability** — helping teams shi
 |------|--------------|
 | 🔐 [**gha-supplychain-pipeline**](https://github.com/<yourusername>/gha-supplychain-pipeline) | End-to-end **CI/CD pipeline** demo with SBOM (Syft), signing (Cosign), Trivy, and policy checks — secure software supply chain. |
 | ☸️ [**argocd-rollouts-demo**](https://github.com/<yourusername>/argocd-rollouts-demo) | **Kubernetes GitOps + progressive delivery** using Argo CD + Argo Rollouts. Shows canary deploys and auto-rollbacks. |
-| 📊 [**observability-slos-demo**](https://github.com/<yourusername>/observability-slos-demo) | **SLO-based monitoring** with OpenTelemetry, Prometheus, Grafana, Loki, and Tempo — error budgets, burn-rate alerts, and dashboards. |
+| 📊 [**observability-slos-demo**](https://github.com/ozistephen/observability-slos-demo) | **SLO-based monitoring** with OpenTelemetry, Prometheus, Grafana, Loki, and Tempo — error budgets, burn-rate alerts, and dashboards. |
 
 > 🧠 Each repo has detailed READMEs with diagrams, setup steps, and screenshots so you can see how everything works.
 
