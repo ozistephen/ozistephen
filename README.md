@@ -2,7 +2,7 @@
 
 🚀 **Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability**
 
-I build scalable, secure, and automated cloud infrastructure for SaaS platforms.  
+I build scalable, secure, and automated cloud infrastructure.  
 My passion lies in **GitOps, automation, and reliability** — helping teams ship faster and safer.
 
 ---
