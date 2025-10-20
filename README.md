@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ozioma Stephen
 
-🚀 **Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability**
+🚀 **Cloud & DevOps Engineer | AWS | AAzure | Kubernetes | Terraform | CI/CD | Observability**
 
 I build scalable, secure, and automated cloud infrastructure.  
 My passion lies in **GitOps, automation, and reliability** — helping teams ship faster and safer.
